@@ -1,0 +1,22 @@
+name: So you agree...
+source: https://knowyourmeme.com/memes/so-you-agree
+text:
+  - color: white
+    style: upper
+    anchor_x: 0.0
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+  - color: white
+    style: upper
+    anchor_x: 0.0
+    anchor_y: 0.8
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+styles:
+  -
+example:
+  - so you agree?
+  - you think you're really pretty?
